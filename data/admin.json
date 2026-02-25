@@ -1,0 +1,63 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Arroz",
+            "categoria": "Alimento",
+            "estoque_minimo": 10,
+            "em_estoque": 11
+        },
+        {
+            "id": 2,
+            "nome": "Feij\u00e3o",
+            "categoria": "Alimento",
+            "estoque_minimo": 10,
+            "em_estoque": 8
+        },
+        {
+            "id": 3,
+            "nome": "Limpador perfumado",
+            "categoria": "Limpeza",
+            "estoque_minimo": 10,
+            "em_estoque": 11
+        }
+    ],
+    "movimentacoes": [
+        {
+            "produto_id": 1,
+            "tipo": "ENTRADA",
+            "quantidade": 5
+        },
+        {
+            "produto_id": 2,
+            "tipo": "ENTRADA",
+            "quantidade": 3
+        },
+        {
+            "produto_id": 2,
+            "tipo": "ENTRADA",
+            "quantidade": 1
+        },
+        {
+            "produto_id": 2,
+            "tipo": "SAIDA",
+            "quantidade": 3
+        },
+        {
+            "produto_id": 3,
+            "tipo": "ENTRADA",
+            "quantidade": 5
+        },
+        {
+            "produto_id": 3,
+            "tipo": "ENTRADA",
+            "quantidade": 3
+        },
+        {
+            "produto_id": 1,
+            "tipo": "ENTRADA",
+            "quantidade": 1,
+            "data": "25/02/2026 18:51:01"
+        }
+    ]
+}
