@@ -99,6 +99,10 @@ controle-estoque-dados/
 ✔ Tratamento de dados faltantes
 ✔ Construção de dashboard interativo
 
+<img width="1920" height="904" alt="Streamlit e mais 3 páginas - Perfil 1 — Microsoft​ Edge 25_02_2026 20_47_46" src="https://github.com/user-attachments/assets/d1b577fc-f1ad-4087-bd10-f4e35ee7cca0" />
+
+
+
 👨‍💻 Autor
 
 Brendo Barbosa Silva
