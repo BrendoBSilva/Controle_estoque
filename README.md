@@ -2,7 +2,7 @@
 
 Aplicação web desenvolvida em Python com foco em engenharia e análise de dados, simulando um pipeline completo de extração, transformação e visualização de dados (ETL).
 
-O sistema permite controle de estoque multiusuário com geração de indicadores e dashboard analítico em tempo real.
+O sistema permite controle de estoque multiusuário com geração de indicadores e dashboard analítico em tempo real. Armazenado em Streamlit Cloud.
 
 🏗 Arquitetura de Dados
 
